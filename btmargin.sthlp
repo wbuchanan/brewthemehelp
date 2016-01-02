@@ -1,102 +1,55 @@
 {smcl}
-{* *! version 0.0.1  29NOV2015}{...}
-{cmd:help btmargin}
+{* *! version 0.0.1  02JAN2016}{...}
+{stata help brewtheme:back to brewtheme help}
 {hline}
-
-{title:Title}
 
 {p 4 4 4}{hi:margin {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 
-{title:Arguments}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: axis_title}{p_end}
+{p2colset 8 30 30 8}{p2col: bargraph}{p_end}
+{p2colset 8 30 30 8}{p2col: body}{p_end}
+{p2colset 8 30 30 8}{p2col: boxgraph}{p_end}
+{p2colset 8 30 30 8}{p2col: by_indiv}{p_end}
+{p2colset 8 30 30 8}{p2col: bygraph}{p_end}
+{p2colset 8 30 30 8}{p2col: cleg_title}{p_end}
+{p2colset 8 30 30 8}{p2col: clegend}{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_boxmargin}{p_end}
+{p2colset 8 30 30 8}{p2col: combine_region}{p_end}
+{p2colset 8 30 30 8}{p2col: combinegraph}{p_end}
+{p2colset 8 30 30 8}{p2col: dotgraph}{p_end}
+{p2colset 8 30 30 8}{p2col: editor}{p_end}
+{p2colset 8 30 30 8}{p2col: filled_box}{p_end}
+{p2colset 8 30 30 8}{p2col: filled_textbox}{p_end}
+{p2colset 8 30 30 8}{p2col: graph}{p_end}
+{p2colset 8 30 30 8}{p2col: hbargraph}{p_end}
+{p2colset 8 30 30 8}{p2col: hboxgraph}{p_end}
+{p2colset 8 30 30 8}{p2col: hdotgraph}{p_end}
+{p2colset 8 30 30 8}{p2col: heading}{p_end}
+{p2colset 8 30 30 8}{p2col: key_label}{p_end}
+{p2colset 8 30 30 8}{p2col: label}{p_end}
+{p2colset 8 30 30 8}{p2col: legend}{p_end}
+{p2colset 8 30 30 8}{p2col: legend_boxmargin}{p_end}
+{p2colset 8 30 30 8}{p2col: legend_key_region}{p_end}
+{p2colset 8 30 30 8}{p2col: mat_label_box}{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_label}{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_plotreg}{p_end}
+{p2colset 8 30 30 8}{p2col: matrixgraph}{p_end}
+{p2colset 8 30 30 8}{p2col: pboxlabel}{p_end}
+{p2colset 8 30 30 8}{p2col: pboxlabelbox}{p_end}
+{p2colset 8 30 30 8}{p2col: piegraph}{p_end}
+{p2colset 8 30 30 8}{p2col: piegraph_region}{p_end}
+{p2colset 8 30 30 8}{p2col: plabel}{p_end}
+{p2colset 8 30 30 8}{p2col: plabelbox}{p_end}
+{p2colset 8 30 30 8}{p2col: plotregion}{p_end}
+{p2colset 8 30 30 8}{p2col: small_body}{p_end}
+{p2colset 8 30 30 8}{p2col: star}{p_end}
+{p2colset 8 30 30 8}{p2col: subheading}{p_end}
+{p2colset 8 30 30 8}{p2col: text}{p_end}
+{p2colset 8 30 30 8}{p2col: text_option}{p_end}
+{p2colset 8 30 30 8}{p2col: textbox}{p_end}
+{p2colset 8 30 30 8}{p2col: twoway}{p_end}
+     {hline 50}
 
-{p 4 4 4}{cmd: axis_title} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: bargraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: body} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: boxgraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: by_indiv} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: bygraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: cleg_title} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: clegend} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: clegend_boxmargin} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: combine_region} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: combinegraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: dotgraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: editor} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: filled_box} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: filled_textbox} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: graph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: hbargraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: hboxgraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: hdotgraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: heading} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: key_label} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: label} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: legend} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: legend_boxmargin} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: legend_key_region} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: mat_label_box} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: matrix_label} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: matrix_plotreg} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: matrixgraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: pboxlabel} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: pboxlabelbox} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: piegraph} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: piegraph_region} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: plabel} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: plabelbox} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: plotregion} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: small_body} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: star} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: subheading} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: text} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: text_option} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: textbox} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{p 4 4 4}{cmd: twoway} is an optional argument that accepts the values as valid arguments.{p_end}
-
-{title: Author}{break}
-{p 1 1 1} William R. Buchanan, Ph.D. {break}
-Data Scientist {break}
-{browse "http://mpls.k12.mn.us":Minneapolis Public Schools} {break}
-William.Buchanan at mpls [dot] k12 [dot] mn [dot] us
