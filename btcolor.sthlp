@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.1  02JAN2016}{...}
+{* *! version 0.0.2  25FEB2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -63,3 +63,64 @@
 {p2colset 8 30 30 8}{p2col: tick_label} {p_end}
      {hline 50}
 	 
+{title:brewtheme defaults}
+
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: background}white{p_end}
+{p2colset 8 30 30 8}{p2col: foreground}white{p_end}
+{p2colset 8 30 30 8}{p2col: symbol}black{p_end}
+{p2colset 8 30 30 8}{p2col: backsymbol}none{p_end}
+{p2colset 8 30 30 8}{p2col: text}black{p_end}
+{p2colset 8 30 30 8}{p2col: body}black{p_end}
+{p2colset 8 30 30 8}{p2col: small_body}black{p_end}
+{p2colset 8 30 30 8}{p2col: heading}black{p_end}
+{p2colset 8 30 30 8}{p2col: subheading}black{p_end}
+{p2colset 8 30 30 8}{p2col: axis_title}black{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_label}black{p_end}
+{p2colset 8 30 30 8}{p2col: label}black{p_end}
+{p2colset 8 30 30 8}{p2col: key_label}black{p_end}
+{p2colset 8 30 30 8}{p2col: tick_label}black{p_end}
+{p2colset 8 30 30 8}{p2col: tick_biglabel}black{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_marklbl}black{p_end}
+{p2colset 8 30 30 8}{p2col: sts_risk_label}black{p_end}
+{p2colset 8 30 30 8}{p2col: sts_risk_title}black{p_end}
+{p2colset 8 30 30 8}{p2col: box}none{p_end}
+{p2colset 8 30 30 8}{p2col: textbox}white{p_end}
+{p2colset 8 30 30 8}{p2col: mat_label_box}white{p_end}
+{p2colset 8 30 30 8}{p2col: text_option}black{p_end}
+{p2colset 8 30 30 8}{p2col: text_option_line}white{p_end}
+{p2colset 8 30 30 8}{p2col: text_option_fill}white{p_end}
+{p2colset 8 30 30 8}{p2col: filled_text}black{p_end}
+{p2colset 8 30 30 8}{p2col: filled}white{p_end}
+{p2colset 8 30 30 8}{p2col: bylabel_outline}white{p_end}
+{p2colset 8 30 30 8}{p2col: reverse_big}none{p_end}
+{p2colset 8 30 30 8}{p2col: reverse_big_line}black{p_end}
+{p2colset 8 30 30 8}{p2col: reverse_big_text}white{p_end}
+{p2colset 8 30 30 8}{p2col: grid}white{p_end}
+{p2colset 8 30 30 8}{p2col: major_grid}white{p_end}
+{p2colset 8 30 30 8}{p2col: minor_grid}white{p_end}
+{p2colset 8 30 30 8}{p2col: axisline}black{p_end}
+{p2colset 8 30 30 8}{p2col: tick}black{p_end}
+{p2colset 8 30 30 8}{p2col: minortick}black{p_end}
+{p2colset 8 30 30 8}{p2col: matrix}white{p_end}
+{p2colset 8 30 30 8}{p2col: matrixmarkline}black{p_end}
+{p2colset 8 30 30 8}{p2col: histback}white{p_end}
+{p2colset 8 30 30 8}{p2col: plotregion}white{p_end}
+{p2colset 8 30 30 8}{p2col: plotregion_line}white{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_plotregion}white{p_end}
+{p2colset 8 30 30 8}{p2col: matplotregion_line}black{p_end}
+{p2colset 8 30 30 8}{p2col: legend}white{p_end}
+{p2colset 8 30 30 8}{p2col: legend_line}white{p_end}
+{p2colset 8 30 30 8}{p2col: clegend}none{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_outer}none{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_inner}none{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_line}none{p_end}
+{p2colset 8 30 30 8}{p2col: pboxlabelfill}white{p_end}
+{p2colset 8 30 30 8}{p2col: plabelfill}white{p_end}
+{p2colset 8 30 30 8}{p2col: pmarkback}white{p_end}
+{p2colset 8 30 30 8}{p2col: pmarkbkfill}white{p_end}
+     {hline 50}
+	 
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

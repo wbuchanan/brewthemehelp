@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.1  02JAN2016}{...}
+{* *! version 0.0.2  25FEB2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -24,3 +24,25 @@
 {p2colset 8 30 30 8}{p2col: dot_supgroupgap}{p_end}
      {hline 50}
 
+{title:brewtheme defaults}
+
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: bar_gap}0pct{p_end}
+{p2colset 8 30 30 8}{p2col: bar_groupgap}80pct{p_end}
+{p2colset 8 30 30 8}{p2col: bar_supgroupgap}200pct{p_end}
+{p2colset 8 30 30 8}{p2col: bar_outergap}20pct{p_end}
+{p2colset 8 30 30 8}{p2col: dot_gap}neg100pct{p_end}
+{p2colset 8 30 30 8}{p2col: dot_groupgap}0pct{p_end}
+{p2colset 8 30 30 8}{p2col: dot_supgroupgap}75pct{p_end}
+{p2colset 8 30 30 8}{p2col: dot_outergap}0pct{p_end}
+{p2colset 8 30 30 8}{p2col: box_gap}50pct{p_end}
+{p2colset 8 30 30 8}{p2col: box_groupgap}100pct{p_end}
+{p2colset 8 30 30 8}{p2col: box_supgroupgap}150pct{p_end}
+{p2colset 8 30 30 8}{p2col: box_outergap}25pct{p_end}
+{p2colset 8 30 30 8}{p2col: box_fence}75pct{p_end}
+{p2colset 8 30 30 8}{p2col: box_fencecap}0pct{p_end}
+     {hline 50}
+	 
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

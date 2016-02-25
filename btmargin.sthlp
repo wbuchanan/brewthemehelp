@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.1  02JAN2016}{...}
+{* *! version 0.0.2  25FEB2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -53,3 +53,55 @@
 {p2colset 8 30 30 8}{p2col: twoway}{p_end}
      {hline 50}
 
+{title:brewtheme defaults}
+
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: graph}medium{p_end}
+{p2colset 8 30 30 8}{p2col: twoway}medsmall{p_end}
+{p2colset 8 30 30 8}{p2col: bygraph}zero{p_end}
+{p2colset 8 30 30 8}{p2col: combinegraph}medsmall{p_end}
+{p2colset 8 30 30 8}{p2col: combine_region}zero{p_end}
+{p2colset 8 30 30 8}{p2col: matrixgraph}zero{p_end}
+{p2colset 8 30 30 8}{p2col: piegraph}small{p_end}
+{p2colset 8 30 30 8}{p2col: piegraph_region}medsmall{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_plotreg}small{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_label}zero{p_end}
+{p2colset 8 30 30 8}{p2col: mat_label_box}zero{p_end}
+{p2colset 8 30 30 8}{p2col: by_indiv}small{p_end}
+{p2colset 8 30 30 8}{p2col: text}vsmall{p_end}
+{p2colset 8 30 30 8}{p2col: textbox}zero{p_end}
+{p2colset 8 30 30 8}{p2col: body}vsmall{p_end}
+{p2colset 8 30 30 8}{p2col: small_body}vsmall{p_end}
+{p2colset 8 30 30 8}{p2col: heading}vsmall{p_end}
+{p2colset 8 30 30 8}{p2col: subheading}vsmall{p_end}
+{p2colset 8 30 30 8}{p2col: axis_title}zero{p_end}
+{p2colset 8 30 30 8}{p2col: label}zero{p_end}
+{p2colset 8 30 30 8}{p2col: key_label}zero{p_end}
+{p2colset 8 30 30 8}{p2col: text_option}zero{p_end}
+{p2colset 8 30 30 8}{p2col: plotregion}medsmall{p_end}
+{p2colset 8 30 30 8}{p2col: star}tiny{p_end}
+{p2colset 8 30 30 8}{p2col: bargraph}bargraph{p_end}
+{p2colset 8 30 30 8}{p2col: boxgraph}bargraph{p_end}
+{p2colset 8 30 30 8}{p2col: dotgraph}bargraph{p_end}
+{p2colset 8 30 30 8}{p2col: hbargraph}bargraph{p_end}
+{p2colset 8 30 30 8}{p2col: hboxgraph}bargraph{p_end}
+{p2colset 8 30 30 8}{p2col: hdotgraph}bargraph{p_end}
+{p2colset 8 30 30 8}{p2col: legend}small{p_end}
+{p2colset 8 30 30 8}{p2col: legend_key_region}tiny{p_end}
+{p2colset 8 30 30 8}{p2col: legend_boxmargin}small{p_end}
+{p2colset 8 30 30 8}{p2col: clegend}medium{p_end}
+{p2colset 8 30 30 8}{p2col: cleg_title}medsmall{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_boxmargin}small{p_end}
+{p2colset 8 30 30 8}{p2col: key_label}zero{p_end}
+{p2colset 8 30 30 8}{p2col: filled_textbox}small{p_end}
+{p2colset 8 30 30 8}{p2col: filled_box}zero{p_end}
+{p2colset 8 30 30 8}{p2col: editor}zero{p_end}
+{p2colset 8 30 30 8}{p2col: plabel}zero{p_end}
+{p2colset 8 30 30 8}{p2col: plabelbox}zero{p_end}
+{p2colset 8 30 30 8}{p2col: pboxlabel}zero{p_end}
+{p2colset 8 30 30 8}{p2col: pboxlabelbox}zero{p_end}
+     {hline 50}
+	 
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

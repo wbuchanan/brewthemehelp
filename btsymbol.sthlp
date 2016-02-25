@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.1  02JAN2016}{...}
+{* *! version 0.0.2  25FEB2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -24,3 +24,25 @@
 {p2colset 8 30 30 8}{p2col: sunflower}{p_end}
      {hline 50}
 
+{title:brewtheme defaults}
+
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: sunflower}circle_hollow{p_end}
+{p2colset 8 30 30 8}{p2col: none}none{p_end}
+{p2colset 8 30 30 8}{p2col: histogram}circle{p_end}
+{p2colset 8 30 30 8}{p2col: histback}none{p_end}
+{p2colset 8 30 30 8}{p2col: dots}circle{p_end}
+{p2colset 8 30 30 8}{p2col: ci}circle{p_end}
+{p2colset 8 30 30 8}{p2col: ci2}circle{p_end}
+{p2colset 8 30 30 8}{p2col: ilabel}none{p_end}
+{p2colset 8 30 30 8}{p2col: matrix}circle{p_end}
+{p2colset 8 30 30 8}{p2col: refmarker}circle{p_end}
+{p2colset 8 30 30 8}{p2col: p}circle{p_end}
+{p2colset 8 30 30 8}{p2col: pback}none{p_end}
+{p2colset 8 30 30 8}{p2col: pbarback}none{p_end}
+{p2colset 8 30 30 8}{p2col: pdotback}none{p_end}
+     {hline 50}
+	 
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

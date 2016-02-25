@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.1  02JAN2016}{...}
+{* *! version 0.0.2  25FEB2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -17,3 +17,18 @@
 {p2colset 8 30 30 8}{p2col: text_option}{p_end}
      {hline 50}
 	 
+{title:brewtheme defaults}
+
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: p}east{p_end}
+{p2colset 8 30 30 8}{p2col: key_label}west{p_end}
+{p2colset 8 30 30 8}{p2col: legend_fillpos}center{p_end}
+{p2colset 8 30 30 8}{p2col: legend_key}default{p_end}
+{p2colset 8 30 30 8}{p2col: text_option}center{p_end}
+{p2colset 8 30 30 8}{p2col: graph_aspect}center{p_end}
+{p2colset 8 30 30 8}{p2col: editor}east{p_end}
+     {hline 50}
+	 
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

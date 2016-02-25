@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.1  02JAN2016}{...}
+{* *! version 0.0.2  25FEB2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -65,4 +65,66 @@
 {p2colset 8 30 30 8}{p2col: zyx2}axisline, clegend, dots, legend, minortick, p#bar, p#other, reverse_big, sunflowerlf, yxline, background, dendrogram, editor, major_grid, none, p#box, p#solid, solid, symbol, zyx2, ci, dot, foreground, matrix_plotregion, p#, p#boxmark, pie, sunflower, text_option, ci2, dotchart, grid, matrixmark, p#area, p#dotmark, plotregion, sunflowerdb, tick, ci2_area, dotchart_area, grid_foreground, medforeground, p#arrow, p#line, refline, sunflowerdf, wide_background, ci_area, dotmark, histogram, minor_grid, p#arrowline, p#mark, refmarker, sunflowerlb, or xyline{p_end}
      {hline 110}
 
-{stata help brewtheme:back to brewtheme help}
+{title:brewtheme defaults}
+
+     {hline 50}
+{p2colset 8 30 30 8}{p2col:Keys}Values{p_end}
+     {hline 50}
+{p2colset 8 30 30 8}{p2col: background}background{p_end}
+{p2colset 8 30 30 8}{p2col: foreground}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: symbol}symbol{p_end}
+{p2colset 8 30 30 8}{p2col: boxline}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: textbox}none{p_end}
+{p2colset 8 30 30 8}{p2col: axis}axisline{p_end}
+{p2colset 8 30 30 8}{p2col: axis_withgrid}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: zero_line}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: tick}tick{p_end}
+{p2colset 8 30 30 8}{p2col: minortick}minortick{p_end}
+{p2colset 8 30 30 8}{p2col: star}p1{p_end}
+{p2colset 8 30 30 8}{p2col: ci}ci{p_end}
+{p2colset 8 30 30 8}{p2col: ci_area}ci_area{p_end}
+{p2colset 8 30 30 8}{p2col: ci2}ci2{p_end}
+{p2colset 8 30 30 8}{p2col: ci2_area}ci2_area{p_end}
+{p2colset 8 30 30 8}{p2col: histogram}histogram{p_end}
+{p2colset 8 30 30 8}{p2col: histback}histogram{p_end}
+{p2colset 8 30 30 8}{p2col: dendrogram}dendrogram{p_end}
+{p2colset 8 30 30 8}{p2col: grid}none{p_end}
+{p2colset 8 30 30 8}{p2col: major_grid}none{p_end}
+{p2colset 8 30 30 8}{p2col: minor_grid}none{p_end}
+{p2colset 8 30 30 8}{p2col: xyline}xyline{p_end}
+{p2colset 8 30 30 8}{p2col: refline}refline{p_end}
+{p2colset 8 30 30 8}{p2col: refmarker}refmarker{p_end}
+{p2colset 8 30 30 8}{p2col: matrixmark}matrixmark{p_end}
+{p2colset 8 30 30 8}{p2col: matrix}p1solid{p_end}
+{p2colset 8 30 30 8}{p2col: dotchart}dotchart{p_end}
+{p2colset 8 30 30 8}{p2col: dotchart_area}dotchart_area{p_end}
+{p2colset 8 30 30 8}{p2col: dotmark}dotmark{p_end}
+{p2colset 8 30 30 8}{p2col: box_whiskers}ci{p_end}
+{p2colset 8 30 30 8}{p2col: box_median}refline{p_end}
+{p2colset 8 30 30 8}{p2col: pie_lines}pie{p_end}
+{p2colset 8 30 30 8}{p2col: legend}none{p_end}
+{p2colset 8 30 30 8}{p2col: clegend}clegend{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_outer}none{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_inner}none{p_end}
+{p2colset 8 30 30 8}{p2col: clegend_preg}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: mat_label_box}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: reverse_big}reverse_big{p_end}
+{p2colset 8 30 30 8}{p2col: plotregion}plotregion{p_end}
+{p2colset 8 30 30 8}{p2col: matrix_plotregion}matrix_plotregion{p_end}
+{p2colset 8 30 30 8}{p2col: dots}dot{p_end}
+{p2colset 8 30 30 8}{p2col: editor}editor{p_end}
+{p2colset 8 30 30 8}{p2col: sunflower}sunflower{p_end}
+{p2colset 8 30 30 8}{p2col: sunflowerlb}sunflowerlb{p_end}
+{p2colset 8 30 30 8}{p2col: sunflowerlf}sunflowerlf{p_end}
+{p2colset 8 30 30 8}{p2col: sunflowerdb}sunflowerdb{p_end}
+{p2colset 8 30 30 8}{p2col: sunflowerdf}sunflowerdf{p_end}
+{p2colset 8 30 30 8}{p2col: text_option}text_option{p_end}
+{p2colset 8 30 30 8}{p2col: sts_risktable}none{p_end}
+{p2colset 8 30 30 8}{p2col: zyx2}zyx2{p_end}
+{p2colset 8 30 30 8}{p2col: pmarkback}background{p_end}
+{p2colset 8 30 30 8}{p2col: pboxmarkback}background{p_end}
+{p2colset 8 30 30 8}{p2col: plabel}foreground{p_end}
+{p2colset 8 30 30 8}{p2col: pboxlabel}foreground{p_end}
+     {hline 50}
+	 
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
