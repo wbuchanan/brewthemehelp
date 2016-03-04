@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,49 +8,49 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: axis_title}{p_end}
-{p2colset 8 50 50 8}{p2col: bargraph}{p_end}
-{p2colset 8 50 50 8}{p2col: body}{p_end}
-{p2colset 8 50 50 8}{p2col: boxgraph}{p_end}
-{p2colset 8 50 50 8}{p2col: by_indiv}{p_end}
-{p2colset 8 50 50 8}{p2col: bygraph}{p_end}
-{p2colset 8 50 50 8}{p2col: cleg_title}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend_boxmargin}{p_end}
-{p2colset 8 50 50 8}{p2col: combine_region}{p_end}
-{p2colset 8 50 50 8}{p2col: combinegraph}{p_end}
-{p2colset 8 50 50 8}{p2col: dotgraph}{p_end}
-{p2colset 8 50 50 8}{p2col: editor}{p_end}
-{p2colset 8 50 50 8}{p2col: filled_box}{p_end}
-{p2colset 8 50 50 8}{p2col: filled_textbox}{p_end}
-{p2colset 8 50 50 8}{p2col: graph}{p_end}
-{p2colset 8 50 50 8}{p2col: hbargraph}{p_end}
-{p2colset 8 50 50 8}{p2col: hboxgraph}{p_end}
-{p2colset 8 50 50 8}{p2col: hdotgraph}{p_end}
-{p2colset 8 50 50 8}{p2col: heading}{p_end}
-{p2colset 8 50 50 8}{p2col: key_label}{p_end}
-{p2colset 8 50 50 8}{p2col: label}{p_end}
-{p2colset 8 50 50 8}{p2col: legend}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_boxmargin}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_key_region}{p_end}
-{p2colset 8 50 50 8}{p2col: mat_label_box}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_label}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_plotreg}{p_end}
-{p2colset 8 50 50 8}{p2col: matrixgraph}{p_end}
-{p2colset 8 50 50 8}{p2col: pboxlabel}{p_end}
-{p2colset 8 50 50 8}{p2col: pboxlabelbox}{p_end}
-{p2colset 8 50 50 8}{p2col: piegraph}{p_end}
-{p2colset 8 50 50 8}{p2col: piegraph_region}{p_end}
-{p2colset 8 50 50 8}{p2col: plabel}{p_end}
-{p2colset 8 50 50 8}{p2col: plabelbox}{p_end}
-{p2colset 8 50 50 8}{p2col: plotregion}{p_end}
-{p2colset 8 50 50 8}{p2col: small_body}{p_end}
-{p2colset 8 50 50 8}{p2col: star}{p_end}
-{p2colset 8 50 50 8}{p2col: subheading}{p_end}
-{p2colset 8 50 50 8}{p2col: text}{p_end}
-{p2colset 8 50 50 8}{p2col: text_option}{p_end}
-{p2colset 8 50 50 8}{p2col: textbox}{p_end}
-{p2colset 8 50 50 8}{p2col: twoway}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: bargraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: body}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: boxgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks3:by_indiv}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks2:bygraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: cleg_title}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_boxmargin}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: combine_region}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: combinegraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dotgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: editor}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: filled_box}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: filled_textbox}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_shared:graph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hbargraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hboxgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hdotgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_titles:heading}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: key_label}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_boxmargin}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_key_region}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: mat_label_box}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_label}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_plotreg}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrixgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pboxlabel}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pboxlabelbox}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: piegraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: piegraph_region}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: plabel}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: plabelbox}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: plotregion}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: small_body}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: star}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: subheading}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_labels:textbox}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col: twoway}}{help marginstyle:margin styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

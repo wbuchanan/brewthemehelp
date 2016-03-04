@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3  03MAR2016}{...}
+{* *! version 0.0.4  04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,59 +8,59 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: background} {p_end}
-{p2colset 8 50 50 8}{p2col: bar_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: bar_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: box_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: box_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: bygraph} {p_end}
-{p2colset 8 50 50 8}{p2col: bygraph_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: bygraph_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: ci} {p_end}
-{p2colset 8 50 50 8}{p2col: ci2} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_inner} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_inpreg} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_outer} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_preg} {p_end}
-{p2colset 8 50 50 8}{p2col: combine_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: combine_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: combinegraph} {p_end}
-{p2colset 8 50 50 8}{p2col: combinegraph_inner} {p_end}
-{p2colset 8 50 50 8}{p2col: dendrogram} {p_end}
-{p2colset 8 50 50 8}{p2col: dot_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: dot_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: dotchart} {p_end}
-{p2colset 8 50 50 8}{p2col: foreground} {p_end}
-{p2colset 8 50 50 8}{p2col: graph} {p_end}
-{p2colset 8 50 50 8}{p2col: hbar_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: hbar_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: hbox_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: hbox_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: histogram} {p_end}
-{p2colset 8 50 50 8}{p2col: inner_bygraph} {p_end}
-{p2colset 8 50 50 8}{p2col: inner_graph} {p_end}
-{p2colset 8 50 50 8}{p2col: inner_legend} {p_end}
-{p2colset 8 50 50 8}{p2col: inner_piegraph} {p_end}
-{p2colset 8 50 50 8}{p2col: inner_pieregion} {p_end}
-{p2colset 8 50 50 8}{p2col: inner_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: legend} {p_end}
-{p2colset 8 50 50 8}{p2col: legend_inkey_region} {p_end}
-{p2colset 8 50 50 8}{p2col: legend_key_region} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_ilabel} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_label} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: matrixgraph_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: matrixgraph_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: piegraph} {p_end}
-{p2colset 8 50 50 8}{p2col: piegraph_region} {p_end}
-{p2colset 8 50 50 8}{p2col: plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: sunflower} {p_end}
-{p2colset 8 50 50 8}{p2col: sunflowerdb} {p_end}
-{p2colset 8 50 50 8}{p2col: sunflowerlb} {p_end}
-{p2colset 8 50 50 8}{p2col: twoway_iplotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: twoway_plotregion} {p_end}
+{p2colset 8 50 50 8}{p2col: background}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: bar_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: bar_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: box_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: box_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks1:bygraph}}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks2:bygraph_iplotregion}}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks2:bygraph_plotregion}}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci2}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_inner}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_inpreg}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_outer}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_preg}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: combine_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: combine_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: combinegraph}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: combinegraph_inner}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dendrogram}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dot_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dot_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dotchart}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: foreground}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_shared:graph}}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hbar_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hbar_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hbox_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: hbox_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: histogram}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks1:inner_bygraph}}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_shared:inner_graph}}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: inner_legend}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: inner_piegraph}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: inner_pieregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: inner_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_inkey_region}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_key_region}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_ilabel}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_label}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrixgraph_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrixgraph_plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: piegraph}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: piegraph_region}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: plotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflower}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflowerdb}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflowerlb}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: twoway_iplotregion}{help areastyle:area styles}{p_end}
+{p2colset 8 50 50 8}{p2col: twoway_plotregion}{help areastyle:area styles}{p_end}
      {hline 70}
 
 	 

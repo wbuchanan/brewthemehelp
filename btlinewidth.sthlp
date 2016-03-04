@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,42 +8,42 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: axisline}{p_end}
-{p2colset 8 50 50 8}{p2col: background}{p_end}
-{p2colset 8 50 50 8}{p2col: ci}{p_end}
-{p2colset 8 50 50 8}{p2col: ci2}{p_end}
-{p2colset 8 50 50 8}{p2col: ci2_area}{p_end}
-{p2colset 8 50 50 8}{p2col: ci_area}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend}{p_end}
-{p2colset 8 50 50 8}{p2col: dendrogram}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_area}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_line}{p_end}
-{p2colset 8 50 50 8}{p2col: dotmark}{p_end}
-{p2colset 8 50 50 8}{p2col: dots}{p_end}
-{p2colset 8 50 50 8}{p2col: foreground}{p_end}
-{p2colset 8 50 50 8}{p2col: grid}{p_end}
-{p2colset 8 50 50 8}{p2col: histogram}{p_end}
-{p2colset 8 50 50 8}{p2col: legend}{p_end}
-{p2colset 8 50 50 8}{p2col: major_grid}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_plotregion}{p_end}
-{p2colset 8 50 50 8}{p2col: matrixmark}{p_end}
-{p2colset 8 50 50 8}{p2col: medium}{p_end}
-{p2colset 8 50 50 8}{p2col: minor_grid}{p_end}
-{p2colset 8 50 50 8}{p2col: minortick}{p_end}
-{p2colset 8 50 50 8}{p2col: p}{p_end}
-{p2colset 8 50 50 8}{p2col: pbar}{p_end}
-{p2colset 8 50 50 8}{p2col: pie}{p_end}
-{p2colset 8 50 50 8}{p2col: plotregion}{p_end}
-{p2colset 8 50 50 8}{p2col: refline}{p_end}
-{p2colset 8 50 50 8}{p2col: refmarker}{p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big}{p_end}
-{p2colset 8 50 50 8}{p2col: sunflower}{p_end}
-{p2colset 8 50 50 8}{p2col: text_option}{p_end}
-{p2colset 8 50 50 8}{p2col: thin}{p_end}
-{p2colset 8 50 50 8}{p2col: tick}{p_end}
-{p2colset 8 50 50 8}{p2col: tickline}{p_end}
-{p2colset 8 50 50 8}{p2col: xyline}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axisline}}{help linewidth: line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_background_def:background}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci2}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci2_area}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci_area}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dendrogram}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dot_area}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dot_line}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dotmark}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dots}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_foreground_def:foreground}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: grid}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: histogram}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: major_grid}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_plotregion}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrixmark}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: medium}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: minor_grid}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:minortick}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: p}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pbar}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pie}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: refline}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: refmarker}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: reverse_big}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflower}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: thin}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:tick}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: tickline}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: xyline}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2}}{help linewidth:line width styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,47 +8,47 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: axis_title} {p_end}
-{p2colset 8 50 50 8}{p2col: b1title} {p_end}
-{p2colset 8 50 50 8}{p2col: b2title} {p_end}
-{p2colset 8 50 50 8}{p2col: barlabel} {p_end}
-{p2colset 8 50 50 8}{p2col: bigtick} {p_end}
-{p2colset 8 50 50 8}{p2col: body} {p_end}
-{p2colset 8 50 50 8}{p2col: bytitle} {p_end}
-{p2colset 8 50 50 8}{p2col: caption} {p_end}
-{p2colset 8 50 50 8}{p2col: cleg_caption} {p_end}
-{p2colset 8 50 50 8}{p2col: cleg_note} {p_end}
-{p2colset 8 50 50 8}{p2col: cleg_subtitle} {p_end}
-{p2colset 8 50 50 8}{p2col: cleg_title} {p_end}
-{p2colset 8 50 50 8}{p2col: editor} {p_end}
-{p2colset 8 50 50 8}{p2col: heading} {p_end}
-{p2colset 8 50 50 8}{p2col: ilabel} {p_end}
-{p2colset 8 50 50 8}{p2col: key_label} {p_end}
-{p2colset 8 50 50 8}{p2col: l1title} {p_end}
-{p2colset 8 50 50 8}{p2col: l2title} {p_end}
-{p2colset 8 50 50 8}{p2col: label} {p_end}
-{p2colset 8 50 50 8}{p2col: leg_caption} {p_end}
-{p2colset 8 50 50 8}{p2col: leg_note} {p_end}
-{p2colset 8 50 50 8}{p2col: leg_subtitle} {p_end}
-{p2colset 8 50 50 8}{p2col: leg_title} {p_end}
-{p2colset 8 50 50 8}{p2col: legend_key} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_label} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_marklbl} {p_end}
-{p2colset 8 50 50 8}{p2col: minortick} {p_end}
-{p2colset 8 50 50 8}{p2col: note} {p_end}
-{p2colset 8 50 50 8}{p2col: pielabel} {p_end}
-{p2colset 8 50 50 8}{p2col: r1title} {p_end}
-{p2colset 8 50 50 8}{p2col: r2title} {p_end}
-{p2colset 8 50 50 8}{p2col: small_label} {p_end}
-{p2colset 8 50 50 8}{p2col: star} {p_end}
-{p2colset 8 50 50 8}{p2col: sts_risktable} {p_end}
-{p2colset 8 50 50 8}{p2col: subheading} {p_end}
-{p2colset 8 50 50 8}{p2col: subtitle} {p_end}
-{p2colset 8 50 50 8}{p2col: t1title} {p_end}
-{p2colset 8 50 50 8}{p2col: t2title} {p_end}
-{p2colset 8 50 50 8}{p2col: text_option} {p_end}
-{p2colset 8 50 50 8}{p2col: tick} {p_end}
-{p2colset 8 50 50 8}{p2col: title} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:b1title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:b2title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: barlabel}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: bigtick}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: body}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: bytitle}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_captions:caption}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: cleg_caption}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: cleg_note}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: cleg_subtitle}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: cleg_title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: editor}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: heading}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ilabel}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: key_label}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:l1title} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:l2title} {p_end}
+{p2colset 8 50 50 8}{p2col: label}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:leg_caption}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:leg_note}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:leg_subtitle}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:leg_title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:legend_key}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_label}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_marklbl}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:minortick}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_notes:note}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pielabel}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:r1title} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:r2title} {p_end}
+{p2colset 8 50 50 8}{p2col: small_label}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: star}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risktable}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: subheading}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_subtitles:subtitle}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:t1title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:t2title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:tick}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_titles:title}}{help textboxstyle:text box styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

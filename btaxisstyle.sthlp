@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,26 +8,26 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p 4 4 4}{bar_group} {p_end}
-{p 4 4 4}{bar_scale_horiz} {p_end}
-{p 4 4 4}{bar_scale_vert} {p_end}
-{p 4 4 4}{bar_super} {p_end}
-{p 4 4 4}{bar_var} {p_end}
-{p 4 4 4}{box_scale_horiz} {p_end}
-{p 4 4 4}{box_scale_vert} {p_end}
-{p 4 4 4}{clegend} {p_end}
-{p 4 4 4}{dot_group} {p_end}
-{p 4 4 4}{dot_scale_horiz} {p_end}
-{p 4 4 4}{dot_scale_vert} {p_end}
-{p 4 4 4}{dot_super} {p_end}
-{p 4 4 4}{dot_var} {p_end}
-{p 4 4 4}{horizontal_default} {p_end}
-{p 4 4 4}{horizontal_nogrid} {p_end}
-{p 4 4 4}{matrix_horiz} {p_end}
-{p 4 4 4}{matrix_vert} {p_end}
-{p 4 4 4}{sts_risktable} {p_end}
-{p 4 4 4}{vertical_default} {p_end}
-{p 4 4 4}{vertical_nogrid} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:bar_group}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:bar_scale_horiz}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:bar_scale_vert}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:bar_super}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:bar_var}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:box_scale_horiz}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:box_scale_vert}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:clegend} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_group}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_scale_horiz}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_scale_vert}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_super}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_var}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:horizontal_default}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:horizontal_nogrid}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:matrix_horiz}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:matrix_vert}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:sts_risktable} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:vertical_default}}{help axisstyle:axis styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:vertical_nogrid}}{help axisstyle:axis styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -57,5 +57,5 @@
 {p2colset 8 50 50 8}{p2col:vertical_nogrid}vertical_nogrid{p_end}
      {hline 70}
 
-{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
+{p2colset 8 50 50 8}{p2col:stata help brewtheme:back to brewtheme help}{p_end}
 	 

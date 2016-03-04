@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,59 +8,59 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: axis_title} {p_end}
-{p2colset 8 50 50 8}{p2col: axisline} {p_end}
-{p2colset 8 50 50 8}{p2col: background} {p_end}
-{p2colset 8 50 50 8}{p2col: backsymbol} {p_end}
-{p2colset 8 50 50 8}{p2col: body} {p_end}
-{p2colset 8 50 50 8}{p2col: box} {p_end}
-{p2colset 8 50 50 8}{p2col: bylabel_outline} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_inner} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_line} {p_end}
-{p2colset 8 50 50 8}{p2col: clegend_outer} {p_end}
-{p2colset 8 50 50 8}{p2col: filled} {p_end}
-{p2colset 8 50 50 8}{p2col: filled_text} {p_end}
-{p2colset 8 50 50 8}{p2col: foreground} {p_end}
-{p2colset 8 50 50 8}{p2col: grid} {p_end}
-{p2colset 8 50 50 8}{p2col: heading} {p_end}
-{p2colset 8 50 50 8}{p2col: histback} {p_end}
-{p2colset 8 50 50 8}{p2col: key_label} {p_end}
-{p2colset 8 50 50 8}{p2col: label} {p_end}
-{p2colset 8 50 50 8}{p2col: legend} {p_end}
-{p2colset 8 50 50 8}{p2col: legend_line} {p_end}
-{p2colset 8 50 50 8}{p2col: major_grid} {p_end}
-{p2colset 8 50 50 8}{p2col: mat_label_box} {p_end}
-{p2colset 8 50 50 8}{p2col: matplotregion_line} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_label} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_marklbl} {p_end}
-{p2colset 8 50 50 8}{p2col: matrix_plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: matrixmarkline} {p_end}
-{p2colset 8 50 50 8}{p2col: minor_grid} {p_end}
-{p2colset 8 50 50 8}{p2col: minortick} {p_end}
-{p2colset 8 50 50 8}{p2col: pboxlabelfill} {p_end}
-{p2colset 8 50 50 8}{p2col: plabelfill} {p_end}
-{p2colset 8 50 50 8}{p2col: plotregion} {p_end}
-{p2colset 8 50 50 8}{p2col: plotregion_line} {p_end}
-{p2colset 8 50 50 8}{p2col: pmarkback} {p_end}
-{p2colset 8 50 50 8}{p2col: pmarkbkfill} {p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big} {p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big_line} {p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big_text} {p_end}
-{p2colset 8 50 50 8}{p2col: small_body} {p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_label} {p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_title} {p_end}
-{p2colset 8 50 50 8}{p2col: subheading} {p_end}
-{p2colset 8 50 50 8}{p2col: symbol} {p_end}
-{p2colset 8 50 50 8}{p2col: text} {p_end}
-{p2colset 8 50 50 8}{p2col: text_option} {p_end}
-{p2colset 8 50 50 8}{p2col: text_option_fill} {p_end}
-{p2colset 8 50 50 8}{p2col: text_option_line} {p_end}
-{p2colset 8 50 50 8}{p2col: textbox} {p_end}
-{p2colset 8 50 50 8}{p2col: tick} {p_end}
-{p2colset 8 50 50 8}{p2col: tick_biglabel} {p_end}
-{p2colset 8 50 50 8}{p2col: tick_label} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axisline}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_background_def:background}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: backsymbol}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: body}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: box}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: bylabel_outline}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_inner}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_line}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_outer}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: filled}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: filled_text}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_foreground_def:foreground}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: grid}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: heading}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: histback}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: key_label}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_line}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: major_grid}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: mat_label_box}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matplotregion_line}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_label}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_marklbl}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_plotregion}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrixmarkline}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: minor_grid}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:minortick}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pboxlabelfill}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: plabelfill}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion_line}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pmarkback}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pmarkbkfill}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: reverse_big}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: reverse_big_line}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: reverse_big_text}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: small_body}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risk_label}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risk_title}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: subheading}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: symbol}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option_fill}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option_line}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_labels:textbox}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:tick}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col: tick_biglabel}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:tick_label}}{help colorstyle:color styles}{p_end}
      {hline 70}
 	 
 {title:brewtheme defaults}

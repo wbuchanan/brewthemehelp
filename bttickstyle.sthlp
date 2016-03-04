@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -9,13 +9,13 @@
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
 {p2colset 8 50 50 8}{p2col: default} {p_end}
-{p2colset 8 50 50 8}{p2col: major} {p_end}
-{p2colset 8 50 50 8}{p2col: major_nolabel} {p_end}
-{p2colset 8 50 50 8}{p2col: major_notick} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks11:major}}{help tickstyle:tick styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks11:major_nolabel}}{help tickstyle:tick styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks11:major_notick}}{help tickstyle:tick styles}{p_end}
 {p2colset 8 50 50 8}{p2col: major_notickbig} {p_end}
-{p2colset 8 50 50 8}{p2col: minor} {p_end}
-{p2colset 8 50 50 8}{p2col: minor_nolabel} {p_end}
-{p2colset 8 50 50 8}{p2col: minor_notick} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks11:minor}}{help tickstyle:tick styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks11:minor_nolabel}}{help tickstyle:tick styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks11:minor_notick}}{help tickstyle:tick styles}{p_end}
 {p2colset 8 50 50 8}{p2col: minor_notickbig} {p_end}
 {p2colset 8 50 50 8}{p2col: sts_risktable} {p_end}
      {hline 70}

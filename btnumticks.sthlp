@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,15 +8,15 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: horizontal_major}{p_end}
-{p2colset 8 50 50 8}{p2col: horizontal_minor}{p_end}
-{p2colset 8 50 50 8}{p2col: horizontal_tmajor}{p_end}
-{p2colset 8 50 50 8}{p2col: horizontal_tminor}{p_end}
-{p2colset 8 50 50 8}{p2col: major}{p_end}
-{p2colset 8 50 50 8}{p2col: vertical_major}{p_end}
-{p2colset 8 50 50 8}{p2col: vertical_minor}{p_end}
-{p2colset 8 50 50 8}{p2col: vertical_tmajor}{p_end}
-{p2colset 8 50 50 8}{p2col: vertical_tminor}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:horizontal_major}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:horizontal_minor}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:horizontal_tmajor}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:horizontal_tminor}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:major}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:vertical_major}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:vertical_minor}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:vertical_tmajor}}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks4:vertical_tminor}}Integer #{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

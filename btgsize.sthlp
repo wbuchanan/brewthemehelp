@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,10 +8,10 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: alternate_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: axis_space}{p_end}
-{p2colset 8 50 50 8}{p2col: axis_title}{p_end}
-{p2colset 8 50 50 8}{p2col: axis_title_gap}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:alternate_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks7:axis_space}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title_gap}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col: barlabel_gap}{p_end}
 {p2colset 8 50 50 8}{p2col: body}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend_height}{p_end}
@@ -23,7 +23,7 @@
 {p2colset 8 50 50 8}{p2col: key_gap}{p_end}
 {p2colset 8 50 50 8}{p2col: key_label}{p_end}
 {p2colset 8 50 50 8}{p2col: key_linespace}{p_end}
-{p2colset 8 50 50 8}{p2col: label}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col: label_gap}{p_end}
 {p2colset 8 50 50 8}{p2col: legend_col_gap}{p_end}
 {p2colset 8 50 50 8}{p2col: legend_colgap}{p_end}
@@ -34,7 +34,7 @@
 {p2colset 8 50 50 8}{p2col: matrix_label}{p_end}
 {p2colset 8 50 50 8}{p2col: matrix_marklbl}{p_end}
 {p2colset 8 50 50 8}{p2col: matrix_mlblgap}{p_end}
-{p2colset 8 50 50 8}{p2col: minortick}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:minortick}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col: minortick_label}{p_end}
 {p2colset 8 50 50 8}{p2col: note}{p_end}
 {p2colset 8 50 50 8}{p2col: notickgap}{p_end}
@@ -44,7 +44,7 @@
 {p2colset 8 50 50 8}{p2col: plabel}{p_end}
 {p2colset 8 50 50 8}{p2col: reverse_big}{p_end}
 {p2colset 8 50 50 8}{p2col: small_body}{p_end}
-{p2colset 8 50 50 8}{p2col: small_label}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_labels:small_label}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col: star}{p_end}
 {p2colset 8 50 50 8}{p2col: star_gap}{p_end}
 {p2colset 8 50 50 8}{p2col: sts_risk_label}{p_end}
@@ -56,11 +56,11 @@
 {p2colset 8 50 50 8}{p2col: subheading}{p_end}
 {p2colset 8 50 50 8}{p2col: text}{p_end}
 {p2colset 8 50 50 8}{p2col: text_option}{p_end}
-{p2colset 8 50 50 8}{p2col: tick}{p_end}
-{p2colset 8 50 50 8}{p2col: tick_biglabel}{p_end}
-{p2colset 8 50 50 8}{p2col: tick_label}{p_end}
-{p2colset 8 50 50 8}{p2col: tickgap}{p_end}
-{p2colset 8 50 50 8}{p2col: title_gap}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:tick}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:tick_biglabel}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:tick_label}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:tickgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:title_gap}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col: zyx2colgap}{p_end}
 {p2colset 8 50 50 8}{p2col: zyx2legend_key_gap}{p_end}
 {p2colset 8 50 50 8}{p2col: zyx2legend_key_xsize}{p_end}

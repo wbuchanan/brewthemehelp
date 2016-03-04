@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 04MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,36 +8,36 @@
      {hline 110}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 110}
-{p2colset 8 50 50 8}{p2col: axisline}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: background}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: ci}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: ci_area}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: dendrogram}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: dot}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_area}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: dotmark}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: dots}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: foreground}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: grid}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: histogram}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: legend}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: major_grid}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_plotregion}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: matrixmark}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: minor_grid}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: minortick}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: p}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: pie}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: plotregion}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: pmark}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: refline}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: refmarker}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: sunflower}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: text_option}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: tick}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: xyline}{help linepatternstyle:line pattern style options}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2}{help linepatternstyle:line pattern style options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axisline}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_background_def:background}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ci_area}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dendrogram}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dot}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dot_area}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dotmark}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: dots}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_foreground_def:foreground}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: grid}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: histogram}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: major_grid}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrix_plotregion}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: matrixmark}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: minor_grid}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:minortick}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: p}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pie}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pmark}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: refline}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: refmarker}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflower}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: text_option}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:tick}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: xyline}}{help linepatternstyle:line pattern styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2}}{help linepatternstyle:line pattern styles}{p_end}
      {hline 110}
 
 {title:brewtheme defaults}
