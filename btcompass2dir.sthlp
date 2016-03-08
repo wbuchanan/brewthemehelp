@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,13 +8,13 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: editor}{help compassdirstyle:compass direction styles}{p_end}
+{p2colset 8 50 50 8}{p2col: editor}}{help compassdirstyle:compass direction styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_shared:graph_aspect}}{help compassdirstyle:compass direction styles}{p_end}
-{p2colset 8 50 50 8}{p2col: key_label}{help compassdirstyle:compass direction styles}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_fillpos}{help compassdirstyle:compass direction styles}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_key}{help compassdirstyle:compass direction styles}{p_end}
-{p2colset 8 50 50 8}{p2col: p}{help compassdirstyle:compass direction styles}{p_end}
-{p2colset 8 50 50 8}{p2col: text_option}{help compassdirstyle:compass direction styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:key_label}}{help compassdirstyle:compass direction styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_fillpos}}{help compassdirstyle:compass direction styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_key}}{help compassdirstyle:compass direction styles}{p_end}
+{p2colset 8 50 50 8}{p2col: p}}{help compassdirstyle:compass direction styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help compassdirstyle:compass direction styles}{p_end}
      {hline 70}
 	 
 {title:brewtheme defaults}

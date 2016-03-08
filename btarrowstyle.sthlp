@@ -8,8 +8,8 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:default} {p_end}
-{p2colset 8 50 50 8}{p2col:editor} {p_end}
+{p2colset 8 50 50 8}{p2col: default} {p_end}
+{p2colset 8 50 50 8}{p2col: editor} {p_end}
      {hline 70}
 	 
 {title:brewtheme defaults}

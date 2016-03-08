@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -9,9 +9,9 @@
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: bargraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar:bargraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: body}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: boxgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks1:boxgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks3:by_indiv}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks2:bygraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: cleg_title}}{help marginstyle:margin styles}{p_end}
@@ -19,24 +19,24 @@
 {p2colset 8 50 50 8}{p2col: clegend_boxmargin}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: combine_region}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: combinegraph}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: dotgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks1:dotgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: editor}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: filled_box}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: filled_textbox}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_shared:graph}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: hbargraph}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: hboxgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks2:hbargraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks2:hboxgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: hdotgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_titles:heading}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: key_label}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:key_label}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: legend}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_boxmargin}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_key_region}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: mat_label_box}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_label}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_plotreg}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: matrixgraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks5:legend}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks5:legend_boxmargin}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks5:legend_key_region}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks3:mat_label_box}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks3:matrix_label}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrix_plotreg}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrixgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: pboxlabel}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: pboxlabelbox}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: piegraph}}{help marginstyle:margin styles}{p_end}
@@ -47,8 +47,8 @@
 {p2colset 8 50 50 8}{p2col: small_body}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: star}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: subheading}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: text}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: text_option}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:text}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:textbox}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: twoway}}{help marginstyle:margin styles}{p_end}
      {hline 70}

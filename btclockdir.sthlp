@@ -8,7 +8,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: by_legend_position}}{help clockpos:clock position styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks1:by_legend_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: caption_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend_title_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: ilabel}}{help clockpos:clock position styles}{p_end}
@@ -17,9 +17,9 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks1:legend_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:legend_subtitle_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:legend_title_position}}{help clockpos:clock position styles}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_marklbl}}{help clockpos:clock position styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks2:matrix_marklbl}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: note_position}}{help clockpos:clock position styles}{p_end}
-{p2colset 8 50 50 8}{p2col: p}}{help clockpos:clock position styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_scatter_plots##remarks1:p}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: subtitle_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: title_position}}{help clockpos:clock position styles}{p_end}
 {p2colset 8 50 50 8}{p2col: zyx2legend_position}}{help clockpos:clock position styles}{p_end}

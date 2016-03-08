@@ -8,7 +8,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: by_legend_ring}}{help ringposstyle:Real # in [0, 100]}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks1:by_legend_ring}}{help ringposstyle:Real # in [0, 100]}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_captions:caption_ring}}{help ringposstyle:Real # in [0, 100]}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend_ring}}{help ringposstyle:Real # in [0, 100]}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend_title_ring}}{help ringposstyle:Real # in [0, 100]}{p_end}

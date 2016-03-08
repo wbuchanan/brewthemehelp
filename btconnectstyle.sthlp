@@ -8,7 +8,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: p} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_connected_plots##remarks1:p}}{help connectstyle:connect styles}{p_end}
      {hline 70}
 	 
 {title:brewtheme defaults}

@@ -10,21 +10,21 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col: backsymbol}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: backsymspace}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_ci_plots:ci}}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_ci_plots:ci2}}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_graph_dot##remarks3:dots}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci2}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dots}}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: histback{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_histogram_plots:histogram}}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_graph_matrix:matrix}}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_shared_plots:p}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_histogram_plots:histogram}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks1:matrix}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_shared_plots:p}}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: parrow}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: parrowbarb}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: pback}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_refmarker_plots:refmarker}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_refmarker_plots:refmarker}}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: smallsymbol}{help markersizestyle:size options}{p_end}
 {p2colset 8 50 50 8}{p2col: star}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_sunflower_plots:sunflower}}{help markersizestyle:size options}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_other:symbol}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots:sunflower}}{help markersizestyle:size options}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:symbol}}{help markersizestyle:size options}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

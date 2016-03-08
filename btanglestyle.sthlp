@@ -1,9 +1,7 @@
 {smcl}
-{* *! version 0.0.4  04MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
-
-
 
 {p 4 4 4}{hi:anglestyle {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 

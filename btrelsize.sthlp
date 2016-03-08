@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,20 +8,20 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: bar_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: bar_groupgap}{p_end}
-{p2colset 8 50 50 8}{p2col: bar_outergap}{p_end}
-{p2colset 8 50 50 8}{p2col: bar_supgroupgap}{p_end}
-{p2colset 8 50 50 8}{p2col: box_fence}{p_end}
-{p2colset 8 50 50 8}{p2col: box_fencecap}{p_end}
-{p2colset 8 50 50 8}{p2col: box_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: box_groupgap}{p_end}
-{p2colset 8 50 50 8}{p2col: box_outergap}{p_end}
-{p2colset 8 50 50 8}{p2col: box_supgroupgap}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_groupgap}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_outergap}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_supgroupgap}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_gap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_groupgap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_outergap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_supgroupgap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col: box_fence}}{p_end}
+{p2colset 8 50 50 8}{p2col: box_fencecap}}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_gap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_groupgap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_outergap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_supgroupgap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_gap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_groupgap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_outergap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_supgroupgap}}Real # (% of bar width){p_end}
      {hline 70}
 
 {title:brewtheme defaults}

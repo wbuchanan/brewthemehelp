@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,20 +8,20 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: ci}{p_end}
-{p2colset 8 50 50 8}{p2col: ci2}{p_end}
-{p2colset 8 50 50 8}{p2col: dots}{p_end}
-{p2colset 8 50 50 8}{p2col: histback}{p_end}
-{p2colset 8 50 50 8}{p2col: histogram}{p_end}
-{p2colset 8 50 50 8}{p2col: ilabel}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix}{p_end}
-{p2colset 8 50 50 8}{p2col: none}{p_end}
-{p2colset 8 50 50 8}{p2col: p}{p_end}
-{p2colset 8 50 50 8}{p2col: pback}{p_end}
-{p2colset 8 50 50 8}{p2col: pbarback}{p_end}
-{p2colset 8 50 50 8}{p2col: pdotback}{p_end}
-{p2colset 8 50 50 8}{p2col: refmarker}{p_end}
-{p2colset 8 50 50 8}{p2col: sunflower}{p_end}
+{p2colset 8 50 50 8}{p2col: ci}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: ci2}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dots}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: histback}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: histogram}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: ilabel}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks1:matrix}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: none}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: p}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: pback}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: pbarback}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: pdotback}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: refmarker}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflower}}{help symbolstyle}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

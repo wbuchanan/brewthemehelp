@@ -8,16 +8,16 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:major_clegend} {p_end}
+{p2colset 8 50 50 8}{p2col: major_clegend} {p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_nolabel}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_notick}}{help ticksetstyle:tick set styles}{p_end}
-{p2colset 8 50 50 8}{p2col:major_horiz_notickbig} {p_end}
+{p2colset 8 50 50 8}{p2col: major_horiz_notickbig} {p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_withgrid}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_nolabel}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_notick}}{help ticksetstyle:tick set styles}{p_end}
-{p2colset 8 50 50 8}{p2col:major_vert_notickbig} {p_end}
+{p2colset 8 50 50 8}{p2col: major_vert_notickbig} {p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_withgrid}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_horiz_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_horiz_nolabel}}{help ticksetstyle:tick set styles}{p_end}
@@ -25,7 +25,7 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_vert_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_vert_nolabel}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_vert_notick}}{help ticksetstyle:tick set styles}{p_end}
-{p2colset 8 50 50 8}{p2col:sts_risktable} {p_end}
+{p2colset 8 50 50 8}{p2col: sts_risktable} {p_end}
      {hline 70}
 
 {title:brewtheme defaults}

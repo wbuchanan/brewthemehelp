@@ -8,19 +8,19 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:{help scheme other:axis_title}}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme other:body}}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:axis_title}}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:body}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col: editor}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col: filled}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme other:heading}}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:heading}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:key_label}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks3:matrix_label}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col: small_body}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col: sts_risk_label}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col: sts_risk_title}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme other:subheading}}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme added text:text_option}}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:subheading}}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help justificationstyle:horizontal justification styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

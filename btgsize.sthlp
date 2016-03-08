@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -12,60 +12,60 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks7:axis_space}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title_gap}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: barlabel_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: body}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend_height}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend_width}{p_end}
-{p2colset 8 50 50 8}{p2col: dot_rectangle}{p_end}
-{p2colset 8 50 50 8}{p2col: filled_text}{p_end}
-{p2colset 8 50 50 8}{p2col: gap}{p_end}
-{p2colset 8 50 50 8}{p2col: heading}{p_end}
-{p2colset 8 50 50 8}{p2col: key_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: key_label}{p_end}
-{p2colset 8 50 50 8}{p2col: key_linespace}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks3:barlabel_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: body}}{help textsizestyle:text size styles}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_height}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: clegend_width}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot_rectangle}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:filled_text}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: heading}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:key_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:key_label}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: key_linespace}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: label_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_col_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_colgap}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_key_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_key_xsize}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_key_ysize}{p_end}
-{p2colset 8 50 50 8}{p2col: legend_row_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_label}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_marklbl}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix_mlblgap}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:minortick}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: minortick_label}{p_end}
-{p2colset 8 50 50 8}{p2col: note}{p_end}
-{p2colset 8 50 50 8}{p2col: notickgap}{p_end}
-{p2colset 8 50 50 8}{p2col: pboxlabel}{p_end}
-{p2colset 8 50 50 8}{p2col: pie_explode}{p_end}
-{p2colset 8 50 50 8}{p2col: pielabel_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: plabel}{p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big}{p_end}
-{p2colset 8 50 50 8}{p2col: small_body}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_scatter_plots##remarks1:label_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:legend_col_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: legend_colgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:legend_key_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:legend_key_xsize}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:legend_key_ysize}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:legend_row_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks3:matrix_label}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks2:matrix_marklbl}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks2:matrix_mlblgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:minortick}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: minortick_label}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: note}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: notickgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_box_plots##remarks1:pboxlabel}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pie_explode}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: pielabel_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: plabel}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: reverse_big}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: small_body}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:small_label}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: star}{p_end}
-{p2colset 8 50 50 8}{p2col: star_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_label}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_tick}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_title}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risktable_lgap}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risktable_space}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risktable_tgap}{p_end}
-{p2colset 8 50 50 8}{p2col: subheading}{p_end}
-{p2colset 8 50 50 8}{p2col: text}{p_end}
-{p2colset 8 50 50 8}{p2col: text_option}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:tick}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:tick_biglabel}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:tick_label}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:tickgap}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks2:title_gap}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2colgap}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2legend_key_gap}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2legend_key_xsize}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2legend_key_ysize}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2rowgap}{p_end}
+{p2colset 8 50 50 8}{p2col: star}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: star_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risk_label}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risk_tick}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risk_title}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risktable_lgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risktable_space}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sts_risktable_tgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: subheading}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_other:text}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:tick}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:tick_biglabel}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:tick_label}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:tickgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:title_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2colgap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2legend_key_gap}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2legend_key_xsize}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2legend_key_ysize}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col: zyx2rowgap}}{help textsizestyle:text size styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -133,4 +133,4 @@
 {p2colset 8 50 50 8}{p2col:zyx2rowgap}zero{p_end}
      {hline 70}
 
-{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}}{help textsizestyle:text size styles}{p_end}

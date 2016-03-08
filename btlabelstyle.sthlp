@@ -8,10 +8,10 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: editor}{p_end}
-{p2colset 8 50 50 8}{p2col: ilabel}{p_end}
-{p2colset 8 50 50 8}{p2col: matrix}{p_end}
-{p2colset 8 50 50 8}{p2col: sunflower}{p_end}
+{p2colset 8 50 50 8}{p2col: editor}}{help labelstyle:label styles}{p_end}
+{p2colset 8 50 50 8}{p2col: ilabel}}{help labelstyle:label styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks2:matrix}}{help labelstyle:label styles}{p_end}
+{p2colset 8 50 50 8}{p2col: sunflower}}{help labelstyle:label styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

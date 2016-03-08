@@ -8,17 +8,17 @@
      {hline 70}
 {p2colset 8 45 45 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 45 45 8}{p2col:adj_xmargins}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:adj_ymargins}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: adj_xmargins}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: adj_ymargins}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks7:alt_xaxes}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks7:alt_yaxes}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks2:alternate_labels}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks8:bar_reverse_scale}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:box_custom_whiskers}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:box_hollow}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_box_plots##remarks3:box_custom_whiskers}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: box_hollow}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks9:box_reverse_scale}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:by_alternate_xaxes}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:by_alternate_yaxes}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: by_alternate_xaxes}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: by_alternate_yaxes}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_edgelabel}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_indiv_as_whole}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_indiv_xaxes}}yes | no{p_end}
@@ -35,99 +35,99 @@
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_outer_xtitles}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_outer_yaxes}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_outer_ytitles}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:by_shrink_indiv}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_shrink_indiv}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_by_graphs##remarks3:by_shrink_plotregion}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:by_skip_xalternate}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:by_skip_yalternate}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:caption_span}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:clegend_title_span}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:cmissings}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:connect_missings}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:contours_colorlines}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:contours_outline}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:contours_reversekey}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: by_skip_xalternate}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: by_skip_yalternate}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_captions:caption_span}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: clegend_title_span}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: cmissings}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: connect_missings}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: contours_colorlines}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: contours_outline}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: contours_reversekey}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks10:dot_reverse_scale}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_grid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_nl_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_nl_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_nlt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_nlt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_nt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_nt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_major_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_grid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_nl_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_nl_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_nlt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_nlt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_nt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_nt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_majornl_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_grid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_nl_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_nl_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_nlt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_nlt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_nt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_nt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minor_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_grid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_nl_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_nl_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_nlt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_nlt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_nt_hgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_nt_vgrid}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:draw_minornl_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: draw_major_grid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_nl_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_nl_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_nlt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_nlt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_nt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_nt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_major_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: draw_majornl_grid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_nl_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_nl_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_nlt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_nlt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_nt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_nt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_majornl_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: draw_minor_grid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_nl_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_nl_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_nlt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_nlt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_nt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_nt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minor_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: draw_minornl_grid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_nl_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_nl_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_nlt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_nlt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_nt_hgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_nt_vgrid}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks2:draw_minornl_vgrid}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks6:extend_axes_full_high}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks6:extend_axes_full_low}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks6:extend_axes_high}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks6:extend_axes_low}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_dots}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_grid_high}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_grid_low}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_majorgrid_high}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_majorgrid_low}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_minorgrid_high}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:extend_minorgrid_low}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:grid_draw_max}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:grid_draw_min}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:grid_force_nomax}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:grid_force_nomin}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_col_first}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_force_draw}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_force_keysz}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_force_nodraw}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_span}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_stacked}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:legend_text_first}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:mat_label_as_textbox}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:mat_label_box}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:note_span}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:pboxlabelboxed}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:pcmissings}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:pie_clockwise}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:plabelboxed}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:subtitle_span}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_graph_dot##remarks3:extend_dots}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: extend_grid_high}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: extend_grid_low}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:extend_majorgrid_high}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:extend_majorgrid_low}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:extend_minorgrid_high}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:extend_minorgrid_low}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:grid_draw_max}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:grid_draw_min}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:grid_force_nomax}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_grids##remarks3:grid_force_nomin}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks3:legend_col_first}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks3:legend_force_draw}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks3:legend_force_keysz}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks3:legend_force_nodraw}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks1:legend_span}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks3:legend_stacked}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_legends##remarks3:legend_text_first}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: mat_label_as_textbox}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: mat_label_box}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_notes:note_span}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: pboxlabelboxed}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_connected_plots##remarks1:pcmissings}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_pie_plot##remarks1:pie_clockwise}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: plabelboxed}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_subtitles:subtitle_span}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks8:swap_bar_groupaxis}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks8:swap_bar_scaleaxis}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks9:swap_box_groupaxis}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks9:swap_box_scaleaxis}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks10:swap_dot_groupaxis}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks10:swap_dot_scaleaxis}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:text_option}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_added_text:text_option}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_labels:textbox}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_titles:title_span}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks2:use_labels_on_ticks}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks7:x2axis_ontop}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:xyline_extend_high}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:xyline_extend_low}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_added_lines:xyline_extend_high}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col:{help scheme_added_lines:xyline_extend_low}}yes | no{p_end}
 {p2colset 8 45 45 8}{p2col:{help scheme_axes##remarks7:y2axis_onright}}yes | no{p_end}
-{p2colset 8 45 45 8}{p2col:zyx2legend_span}}yes | no{p_end}
+{p2colset 8 45 45 8}{p2col: zyx2legend_span}}yes | no{p_end}
      {hline 70}
 
 {title:brewtheme defaults}

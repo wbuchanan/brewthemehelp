@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.3 03MAR2016}{...}
+{* *! version 0.0.4 08MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,7 +8,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: dot} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot}}{stata graph query dottypestyle}{p_end}
      {hline 70}
 	 
 {title:brewtheme defaults}
