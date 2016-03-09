@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.5 09MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -11,20 +11,20 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axisline}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_background_def:background}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: backsymbol}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: body}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:backsymbol (line 211)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_caption:body}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:box}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: bylabel_outline}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend_inner}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend_line}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: clegend_outer}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:bylabel_outline (line 238)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:clegend (line 285)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:clegend_inner (line 287)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:clegend_line (line 288)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:clegend_outer (line 286)*}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:filled}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:filled_text}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_foreground_def:foreground}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: grid}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: heading}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: histback}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:grid (line 244)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_titles:heading}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:histback (line 268)*}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:key_label}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks5:legend}}{help colorstyle:color styles}{p_end}
@@ -37,29 +37,29 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks2:matrix_marklbl}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrix_plotregion}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks1:matrixmarkline}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: minor_grid}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: {help scheme_axes##remarks1:minortick}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: pboxlabelfill}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: plabelfill}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:minor_grid (line 246)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:minortick}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:pboxlabelfill (line 317)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:plabelfill (line 318)*}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion_line}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: pmarkback}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: pmarkbkfill}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big_line}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: reverse_big_text}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: small_body}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_label}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_title}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: subheading}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: symbol}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: text}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:pmarkback (line 320)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:pmarkbkfill (line 321)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:reverse_big (line 240)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:reverse_big_line (line 241)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:reverse_big_text (line 242)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_notes:small_body}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:sts_risk_label (line 225)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:sts_risk_title (line 226)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_subtitles:subheading}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:symbol (line 210)*}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:text (line 213)*}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option_fill}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option_line}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:textbox}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:tick}}{help colorstyle:color styles}{p_end}
-{p2colset 8 50 50 8}{p2col: tick_biglabel}}{help colorstyle:color styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:tick_biglabel (line 223)*}}{help colorstyle:color styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:tick_label}}{help colorstyle:color styles}{p_end}
      {hline 70}
 	 
@@ -123,4 +123,6 @@
 {p2colset 8 50 50 8}{p2col:tick_label}black{p_end}
      {hline 70}
 	 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
+
 {p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

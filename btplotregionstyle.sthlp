@@ -8,12 +8,12 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar:bargraph}}{help plotregionstyle:plot region styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks1:bargraph}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks1:boxgraph}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks2:bygraph}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend}}{help plotregionstyle:plot region styles}{p_end}
-{p2colset 8 50 50 8}{p2col: combinegraph}}{help plotregionstyle:plot region styles}{p_end}
-{p2colset 8 50 50 8}{p2col: combineregion}}{help plotregionstyle:plot region styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_combine##remarks2:combinegraph}}{help plotregionstyle:plot region styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_combine##remarks2:combineregion}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks1:dotgraph}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks2:hbargraph}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks2:hboxgraph}}{help plotregionstyle:plot region styles}{p_end}
@@ -21,8 +21,8 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrix}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks3:matrix_label}}{help plotregionstyle:plot region styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrixgraph}}{help plotregionstyle:plot region styles}{p_end}
-{p2colset 8 50 50 8}{p2col: piegraph}}{help plotregionstyle:plot region styles}{p_end}
-{p2colset 8 50 50 8}{p2col: twoway}}{help plotregionstyle:plot region styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_pie##remarks2:piegraph}}{help plotregionstyle:plot region styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_twoway:twoway}}{help plotregionstyle:plot region styles}{p_end}
      {hline 70}
 
 	 

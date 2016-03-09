@@ -24,8 +24,8 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_other:heading}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:ilabel}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:key_label}}{help textboxstyle:text box styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:l1title} {p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:l2title} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:l1title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:l2title}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:label}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:leg_caption}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks4:leg_note}}{help textboxstyle:text box styles}{p_end}
@@ -37,8 +37,8 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:minortick}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_notes:note}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col: pielabel}}{help textboxstyle:text box styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:r1title} {p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:r2title} {p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:r1title}}{help textboxstyle:text box styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_numbered_titles:r2title}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:small_label}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col: star}}{help textboxstyle:text box styles}{p_end}
 {p2colset 8 50 50 8}{p2col: sts_risktable}}{help textboxstyle:text box styles}{p_end}

@@ -9,16 +9,16 @@
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar:bargraph}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: body}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks1:bargraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_captions:body}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks1:boxgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks3:by_indiv}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks2:bygraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: cleg_title}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend_boxmargin}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: combine_region}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: combinegraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_combine##remarks2:combine_region}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_combine##remarks2:combinegraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks1:dotgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: editor}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: filled_box}}{help marginstyle:margin styles}{p_end}
@@ -39,14 +39,14 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrixgraph}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: pboxlabel}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: pboxlabelbox}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: piegraph}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: piegraph_region}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_pie##remarks1:piegraph}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_pie##remarks2:piegraph_region}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: plabel}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: plabelbox}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: plotregion}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: small_body}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_twoway:plotregion}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_notes:small_body}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col: star}}{help marginstyle:margin styles}{p_end}
-{p2colset 8 50 50 8}{p2col: subheading}}{help marginstyle:margin styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_subtitles:subheading}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:text}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help marginstyle:margin styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:textbox}}{help marginstyle:margin styles}{p_end}

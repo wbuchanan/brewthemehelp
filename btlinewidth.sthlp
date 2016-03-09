@@ -10,10 +10,10 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axisline}}{help linewidth: line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_background_def:background}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: ci}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: ci2}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: ci2_area}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: ci_area}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci2}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci2_area}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci_area}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col: clegend}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col: dendrogram}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot_area}}{help linewidth:line width styles}{p_end}
@@ -22,7 +22,7 @@
 {p2colset 8 50 50 8}{p2col: dots}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_foreground_def:foreground}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col: grid}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: histogram}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_histogram_plots##remarks1:histogram}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks5:legend}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_grids##remarks1:major_grid}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks4:matrix_plotregion}}{help linewidth:line width styles}{p_end}
@@ -34,10 +34,10 @@
 {p2colset 8 50 50 8}{p2col: pbar}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_pie_plot##remarks1:pie}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_plotregion_def:plotregion}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: refline}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: refmarker}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_refline_plots:refline}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_refmarker_plots:refmarker}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col: reverse_big}}{help linewidth:line width styles}{p_end}
-{p2colset 8 50 50 8}{p2col: sunflower}}{help linewidth:line width styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots##remarks1:sunflower}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col: thin}}{help linewidth:line width styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks1:tick}}{help linewidth:line width styles}{p_end}

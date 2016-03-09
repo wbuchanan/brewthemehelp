@@ -13,6 +13,7 @@ btgraphsize
 btgridstyle
 btmedtypestyle
 btnumticks
+btpiegraphstyle
 btspecial
 btsunflowerstyle
 bttickposition

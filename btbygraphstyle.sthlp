@@ -9,7 +9,7 @@
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks3:bygraph}}{help bystyle:bygraph styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks3:combine}}{help bystyle:bygraph styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_combine##remarks3:combine}}{help bystyle:bygraph styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_by_graphs##remarks3:default}}{help bystyle:bygraph styles}{p_end}
      {hline 70}
 

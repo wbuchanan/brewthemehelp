@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.5 09MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -15,7 +15,7 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:bar_var}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:box_scale_horiz}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:box_scale_vert}}{help axisstyle:axis styles}{p_end}
-{p2colset 8 50 50 8}{p2col:clegend} {p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:clegend (line 1394)*}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_group}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_scale_horiz}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:dot_scale_vert}}{help axisstyle:axis styles}{p_end}
@@ -25,7 +25,7 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:horizontal_nogrid}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:matrix_horiz}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:matrix_vert}}{help axisstyle:axis styles}{p_end}
-{p2colset 8 50 50 8}{p2col:sts_risktable} {p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:sts_risktable (line 1393)*}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:vertical_default}}{help axisstyle:axis styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks13:vertical_nogrid}}{help axisstyle:axis styles}{p_end}
      {hline 70}
@@ -56,6 +56,9 @@
 {p2colset 8 50 50 8}{p2col:vertical_default}vertical_default{p_end}
 {p2colset 8 50 50 8}{p2col:vertical_nogrid}vertical_nogrid{p_end}
      {hline 70}
+	 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 
-{p2colset 8 50 50 8}{p2col:stata help brewtheme:back to brewtheme help}{p_end}
+{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
+
 	 

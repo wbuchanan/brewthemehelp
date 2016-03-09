@@ -8,20 +8,20 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: ci}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: ci2}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci2}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dots}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col: histback}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: histogram}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_histogram_plots##remarks1:histogram}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col: ilabel}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks1:matrix}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: none}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: p}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help symbolstyle:none}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_shared_plots:p}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col: pback}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col: pbarback}}{help symbolstyle}{p_end}
 {p2colset 8 50 50 8}{p2col: pdotback}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: refmarker}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: sunflower}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_refmerker_plots:refmarker}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots##remarks1:sunflower}}{help symbolstyle}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
