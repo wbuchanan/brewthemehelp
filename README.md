@@ -1,20 +1,53 @@
 # BREWTHEME HELP
 This submodule contains parameter specific Stata help files for the `brewtheme` command.  Due to the number of optional parameters and valid arguments within each of the parameters, it should make it easier for end users to navigate the helpfile with each parameter having it's own sub-help page.  
 
-
-# Completed Help Files
-btbarlabelpos
-btbarlabelstyle
-btbarstyle
-btbygraphstyle
-btconnectstyle
-btdottypestyle
-btgraphsize
-btgridstyle
-btmedtypestyle
-btnumticks
-btpiegraphstyle
-btspecial
-btsunflowerstyle
-bttickposition
-bttickposition
+# Help File TODO List
+- [x] btabovebelow  
+- [x] btanglestyle  
+- [x] btareastyle  
+- [x] btarrowstyle  
+- [x] btaxisstyle  
+- [x] btbarlabelpos  
+- [x] btbarlabelstyle  
+- [x] btbarstyle  
+- [x] btbygraphstyle  
+- [x] btclegendstyle  
+- [x] btclockdir  
+- [x] btcolor  
+- [x] btcompass2dir  
+- [x] btcompass3dir  
+- [x] btconnectstyle  
+- [x] btdottypestyle  
+- [x] btgraphsize  
+- [x] btgridlinestyle  
+- [x] btgridringstyle  
+- [x] btgridstyle  
+- [ ] btgsize  
+- [ ] bthorizontal  
+- [ ] btlabelstyle  
+- [ ] btlegendstyle  
+- [ ] btlinepatternstyle  
+- [ ] btlinestyle  
+- [ ] btlinewidthstyle  
+- [ ] btmargin  
+- [x] btmedtypestyle  
+- [ ] btnumstyle  
+- [x] btnumticks  
+- [x] btpiegraphstyle  
+- [ ] btpielabelstyle  
+- [ ] btplotregionstyle  
+- [ ] btrelativepos  
+- [ ] btrelsize  
+- [x] btspecial  
+- [ ] btstarstyle  
+- [ ] btsymbol  
+- [ ] btsymbolsize  
+- [x] btsunflowerstyle  
+- [ ] bttextboxstyle  
+- [x] bttickposition  
+- [ ] btticksetstyle  
+- [ ] bttickstyle  
+- [ ] btverticaltext  
+- [ ] btyesno  
+- [ ] btzyx2rule  
+- [ ] btzyx2style  
