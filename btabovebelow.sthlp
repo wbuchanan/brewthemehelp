@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 09MAR2016}{...}
+{* *! version 0.0.5 12MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -22,4 +22,4 @@
 	 
 {p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 	 
 	 
-{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
+{p 4 4 4}{back:back to brewtheme help}{p_end}

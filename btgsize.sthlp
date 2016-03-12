@@ -1,6 +1,6 @@
 {smcl}
-{* *! version 0.0.5 11MAR2016}{...}
-{stata help brewtheme:back to brewtheme help}
+{* *! version 0.0.5 12MAR2016}{...}
+{back:back to brewtheme help}
 {hline}
 
 {p 4 4 4}{hi:gsize {hline 2}} is an optional argument for {help brewtheme}.{p_end}
@@ -13,7 +13,7 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks3:axis_title_gap}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks3:barlabel_gap}}{help textsizestyle:text size styles}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_captions:body}}{help textsizestyle:text size styles}}{help textsizestyle:text size styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_captions:body}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':clegend_height (line 128)*}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':clegend_width (line 127)*}}{help textsizestyle:text size styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot_rectangle}}{help textsizestyle:text size styles}{p_end}
@@ -135,4 +135,4 @@
 
 {p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 	 
-{p 4 4 4}{stata help brewtheme:back to brewtheme help}}{help textsizestyle:text size styles}{p_end}
+{p 4 4 4}{back:back to brewtheme help}}{help textsizestyle:text size styles}{p_end}

@@ -1,13 +1,13 @@
 {smcl}
-{* *! version 0.0.5 11MAR2016}{...}
-{stata help brewtheme:back to brewtheme help}
+{* *! version 0.0.5 12MAR2016}{...}
+{back:back to brewtheme help}
 {hline}
 
 {p 4 4 4}{hi:linestyle {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 
-     {hline 110}
+     {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
-     {hline 110}
+     {hline 70}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axis}}{help linestyle:line style options}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks5:axis_withgrid}}{help linestyle:line style options}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_background_def:background}}{help linestyle:line style options}{p_end}
@@ -63,7 +63,7 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_added_lines:xyline}}{help linestyle:line style options}{p_end}
 {p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':zero_line (line 720)*}}{help linestyle:line style options}{p_end}
 {p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':zyx2 (line 763)*}}{help linestyle:line style options}{p_end}
-     {hline 110}
+     {hline 70}
 
 {title:brewtheme defaults}
 
@@ -129,4 +129,4 @@
 	 
 {p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 	 
-{p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
+{p 4 4 4}{back:back to brewtheme help}{p_end}
