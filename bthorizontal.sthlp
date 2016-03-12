@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.5 11MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -10,15 +10,15 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:axis_title}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:body}}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col: editor}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col: filled}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':editor (line 1353)*}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':filled (line 1351)*}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:heading}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks2:key_label}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_labels:label}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks3:matrix_label}}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col: small_body}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_label}{help justificationstyle:horizontal justification styles}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risk_title}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':small_body (line 1348)*}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':sts_risk_label (line 1354)*}{help justificationstyle:horizontal justification styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':sts_risk_title (line 1355)*}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_other:subheading}}{help justificationstyle:horizontal justification styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_added_text:text_option}}{help justificationstyle:horizontal justification styles}{p_end}
      {hline 70}
@@ -43,4 +43,6 @@
 {p2colset 8 50 50 8}{p2col:text_option}center{p_end}
      {hline 70}
 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
+	 
 {p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

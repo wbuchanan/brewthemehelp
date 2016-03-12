@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 08MAR2016}{...}
+{* *! version 0.0.5 11MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,20 +8,20 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci2}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dots}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: histback}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_histogram_plots##remarks1:histogram}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: ilabel}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks1:matrix}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help symbolstyle:none}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_shared_plots:p}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: pback}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: pbarback}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col: pdotback}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_refmerker_plots:refmarker}}{help symbolstyle}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots##remarks1:sunflower}}{help symbolstyle}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_ci_plots:ci2}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dots}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':histback (line 377)*}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_histogram_plots##remarks1:histogram}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':ilabel (line 381)*}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_matrix##remarks1:matrix}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help symbolstyle:none}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_shared_plots:p}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':pback (line 386)*}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':pbarback (line 387)*}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':pdotback (line 388)*}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_refmerker_plots:refmarker}}{help symbolstyle:symbol styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots##remarks1:sunflower}}{help symbolstyle:symbol styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -44,5 +44,7 @@
 {p2colset 8 50 50 8}{p2col:refmarker}circle{p_end}
 {p2colset 8 50 50 8}{p2col:sunflower}circle_hollow{p_end}
      {hline 70}
+	 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 	 
 {p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

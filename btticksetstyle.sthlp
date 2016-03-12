@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.5 11MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,16 +8,16 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: major_clegend} {p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':major_clegend (line 1437)*}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_nolabel}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_notick}}{help ticksetstyle:tick set styles}{p_end}
-{p2colset 8 50 50 8}{p2col: major_horiz_notickbig} {p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':major_horiz_notickbig (line 1434)*}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_horiz_withgrid}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_nolabel}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_notick}}{help ticksetstyle:tick set styles}{p_end}
-{p2colset 8 50 50 8}{p2col: major_vert_notickbig} {p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':major_vert_notickbig (line 1435)*}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:major_vert_withgrid}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_horiz_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_horiz_nolabel}}{help ticksetstyle:tick set styles}{p_end}
@@ -25,7 +25,7 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_vert_default}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_vert_nolabel}}{help ticksetstyle:tick set styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks12:minor_vert_notick}}{help ticksetstyle:tick set styles}{p_end}
-{p2colset 8 50 50 8}{p2col: sts_risktable} {p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':sts_risktable (line 1436)*}}{help ticksetstyle:tick set styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -52,5 +52,7 @@
 {p2colset 8 50 50 8}{p2col:minor_vert_notick}minor_vert_notick{p_end}
 {p2colset 8 50 50 8}{p2col:sts_risktable}sts_risktable{p_end}
      {hline 70}
+	 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 	 
 {p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

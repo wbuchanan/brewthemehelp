@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 04MAR2016}{...}
+{* *! version 0.0.5 11MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -10,7 +10,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: bar_num_dots}Integer #{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':bar_num_dots (line 49)*}Integer #{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot_extend_high}}0|1{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot_extend_low}}0|1{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks3:dot_num_dots}}Integer #{p_end}
@@ -20,8 +20,8 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_legends##remarks3:legend_rows}}Integer #{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_scatter_plots##remarks1:max_wted_symsize}}Real # (Max Symbol Size in Bubble Plots){p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_pie_plot##remarks1:pie_angle}}Real #{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2cols}{p_end}
-{p2colset 8 50 50 8}{p2col: zyx2rows}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':zyx2cols (line 41)*}{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':zyx2rows (line 40)*}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -43,4 +43,6 @@
 {p2colset 8 50 50 8}{p2col:zyx2rows}4{p_end}
      {hline 70}
 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
+	 
 {p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}

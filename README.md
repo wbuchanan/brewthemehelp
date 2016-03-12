@@ -22,32 +22,32 @@ This submodule contains parameter specific Stata help files for the `brewtheme` 
 - [x] btgridlinestyle  
 - [x] btgridringstyle  
 - [x] btgridstyle  
-- [ ] btgsize  
-- [ ] bthorizontal  
-- [ ] btlabelstyle  
-- [ ] btlegendstyle  
-- [ ] btlinepatternstyle  
-- [ ] btlinestyle  
-- [ ] btlinewidthstyle  
-- [ ] btmargin  
+- [x] btgsize  
+- [x] bthorizontal  
+- [x] btlabelstyle  
+- [x] btlegendstyle  
+- [x] btlinepatternstyle  
+- [x] btlinestyle  
+- [x] btlinewidthstyle  
+- [x] btmargin  
 - [x] btmedtypestyle  
-- [ ] btnumstyle  
+- [x] btnumstyle  
 - [x] btnumticks  
 - [x] btpiegraphstyle  
-- [ ] btpielabelstyle  
-- [ ] btplotregionstyle  
-- [ ] btrelativepos  
-- [ ] btrelsize  
+- [x] btpielabelstyle  
+- [x] btplotregionstyle  
+- [x] btrelativepos  
+- [x] btrelsize  
 - [x] btspecial  
-- [ ] btstarstyle  
-- [ ] btsymbol  
-- [ ] btsymbolsize  
+- [x] btstarstyle  
+- [x] btsymbol  
+- [x] btsymbolsize  
 - [x] btsunflowerstyle  
-- [ ] bttextboxstyle  
+- [x] bttextboxstyle  
 - [x] bttickposition  
-- [ ] btticksetstyle  
-- [ ] bttickstyle  
-- [ ] btverticaltext  
-- [ ] btyesno  
-- [ ] btzyx2rule  
-- [ ] btzyx2style  
+- [x] btticksetstyle  
+- [x] bttickstyle  
+- [x] btverticaltext  
+- [x] btyesno  
+- [x] btzyx2rule  
+- [x] btzyx2style  

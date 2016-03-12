@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.0.4 08MAR2016}{...}
+{* *! version 0.0.5 11MAR2016}{...}
 {stata help brewtheme:back to brewtheme help}
 {hline}
 
@@ -8,20 +8,20 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_gap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_groupgap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_outergap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_supgroupgap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col: box_fence}}{p_end}
-{p2colset 8 50 50 8}{p2col: box_fencecap}}{p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_gap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_groupgap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_outergap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_supgroupgap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_gap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_groupgap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_outergap}}Real # (% of bar width){p_end}
-{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_supgroupgap}}Real # (% of bar width){p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_gap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_groupgap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_outergap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_bar##remarks4:bar_supgroupgap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':box_fence (line 160)*}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':box_fencecap (line 161)*}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_gap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_groupgap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_outergap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_box##remarks3:box_supgroupgap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_gap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_groupgap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_outergap}}Real #pct{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_graph_dot##remarks2:dot_supgroupgap}}Real #pct{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -44,5 +44,7 @@
 {p2colset 8 50 50 8}{p2col:dot_outergap}0pct{p_end}
 {p2colset 8 50 50 8}{p2col:dot_supgroupgap}75pct{p_end}
     {hline 70}
+	 
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 	 
 {p 4 4 4}{stata help brewtheme:back to brewtheme help}{p_end}
