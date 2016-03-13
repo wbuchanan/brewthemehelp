@@ -1,7 +1,11 @@
 {smcl}
-{* *! version 0.0.5 12MAR2016}{...}
+{* *! version 0.0.6 13MAR2016}{...}
+
+{hline}
 {back:back to brewtheme help}
 {hline}
+
+{title:help for starstyle}{break}
 
 {p 4 4 4}{hi:starstyle {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 

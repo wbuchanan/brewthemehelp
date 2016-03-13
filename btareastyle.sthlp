@@ -1,7 +1,11 @@
 {smcl}
-{* *! version 0.0.5 12MAR2016}{...}
+{* *! version 0.0.6 13MAR2016}{...}
+
+{hline}
 {back:back to brewtheme help}
 {hline}
+
+{title:help for areastyle}{break}
 
 {p 4 4 4}{hi:areastyle {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 
@@ -63,8 +67,8 @@
 {p2colset 8 50 50 8}{p2col:{help scheme_graph_twoway:twoway_plotregion}}{help areastyle:area styles}{p_end}
      {hline 70}
 
-	 
 {title:brewtheme defaults}
+
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}

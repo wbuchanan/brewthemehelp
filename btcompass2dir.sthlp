@@ -1,7 +1,11 @@
 {smcl}
-{* *! version 0.0.5 12MAR2016}{...}
+{* *! version 0.0.6 13MAR2016}{...}
+
+{hline}
 {back:back to brewtheme help}
 {hline}
+
+{title:help for compass2dir}{break}
 
 {p 4 4 4}{hi:compass2dir {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 

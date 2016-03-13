@@ -1,7 +1,11 @@
 {smcl}
-{* *! version 0.0.5 12MAR2016}{...}
+{* *! version 0.0.6 13MAR2016}{...}
+
+{hline}
 {back:back to brewtheme help}
 {hline}
+
+{title:help for anglestyle}{break}
 
 {p 4 4 4}{hi:anglestyle {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 
@@ -15,7 +19,6 @@
 {p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:parrowbarb (line 1507)*}}{help anglestyle:angle styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{help scheme_axes##remarks2:vertical_tick}}{help anglestyle:angle styles}{p_end}
      {hline 70}
-
 
 {title:brewtheme defaults}
 

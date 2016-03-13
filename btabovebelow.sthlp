@@ -1,7 +1,11 @@
 {smcl}
-{* *! version 0.0.5 12MAR2016}{...}
+{* *! version 0.0.6 13MAR2016}{...}
+
+{hline}
 {stata help brewtheme:back to brewtheme help}
 {hline}
+
+{title:help for abovebelow}{break}
 
 {p 4 4 4}{hi:abovebelow {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 
@@ -10,7 +14,6 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:{stata view `c(sysdir_base)'/s/scheme-s2color.scheme:star (line 1756)*}}above | below{p_end}
      {hline 70}
-
 
 {title:brewtheme defaults}
 

@@ -1,7 +1,11 @@
 {smcl}
-{* *! version 0.0.5 12MAR2016}{...}
+{* *! version 0.0.6 13MAR2016}{...}
+
+{hline}
 {back:back to brewtheme help}
 {hline}
+
+{title:help for legendstyle}{break}
 
 {p 4 4 4}{hi:legendstyle {hline 2}} is an optional argument for {help brewtheme}.{p_end}
 
@@ -11,7 +15,6 @@
 {p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':default (line 1548)*}}{help legendstyle:legend styles}{p_end}
 {p2colset 8 50 50 8}{p2col:{stata view `"`c(sysdir_base)'/s/scheme-s2color.scheme"':zyx2 (line 1549)*}}{help legendstyle:legend styles}{p_end}
      {hline 70}
-
 
 {title:brewtheme defaults}
 
