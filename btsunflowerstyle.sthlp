@@ -12,7 +12,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots##remarks1:default}}{help sunflowerstyle:sunflower plot styles}{p_end}
+{p2colset 8 50 50 8}{p2col:{help scheme_sunflower_plots##remarks1:sunflower}}{help sunflowerstyle:sunflower plot styles}{p_end}
      {hline 70}
 
 {title:brewtheme defaults}
@@ -20,7 +20,7 @@
      {hline 70}
 {p2colset 8 50 50 8}{p2col:Keys}Values{p_end}
      {hline 70}
-{p2colset 8 50 50 8}{p2col: sunflower}sunflower{p_end}
+{p2colset 8 50 50 8}{p2col:sunflower}sunflower{p_end}
      {hline 70}
 	 
 {hline}
