@@ -1,8 +1,8 @@
 {smcl}
-{* *! version 0.0.6 13MAR2016}{...}
+{* *! version 0.0.7 15MAR2016}{...}
 
 {hline}
-{back:back to brewtheme help}
+{center:{back:back to brewtheme help}}
 {hline}
 
 {title:help for tickposition}{break}
@@ -23,4 +23,6 @@
 {p2colset 8 35 35 8}{p2col: axis_tick}outside{p_end}
      {hline 70}
 	 
-{p 4 4 4}{back:back to brewtheme help}{p_end}
+{hline}
+{center:{back:back to brewtheme help}}
+{hline}

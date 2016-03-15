@@ -1,8 +1,8 @@
 {smcl}
-{* *! version 0.0.6 13MAR2016}{...}
+{* *! version 0.0.7 15MAR2016}{...}
 
 {hline}
-{back:back to brewtheme help}
+{center:{back:back to brewtheme help}}
 {hline}
 
 {title:help for compass2dir}{break}
@@ -37,4 +37,6 @@
 	 
 {p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
 
-{p 4 4 4}{back:back to brewtheme help}{p_end}
+{hline}
+{center:{back:back to brewtheme help}}
+{hline}

@@ -1,8 +1,8 @@
 {smcl}
-{* *! version 0.0.6 13MAR2016}{...}
+{* *! version 0.0.7 15MAR2016}{...}
 
 {hline}
-{back:back to brewtheme help}
+{center:{back:back to brewtheme help}}
 {hline}
 
 {title:help for special}{break}
@@ -49,5 +49,9 @@
 {p2colset 8 40 40 8}{p2col:matrix_yaxis}"ylabels(#3, angle(horizontal) axis(Y))"{p_end}
      {hline 80}
 	 
-{p 4 4 4}{back:back to brewtheme help}{p_end}
+{p 4 4 8}{hi:(line #)*: these entries are not directly documented, but the line numbers show you where these values appear in the s2color scheme file.}{p_end}	 
+
+{hline}
+{center:{back:back to brewtheme help}}
+{hline}
 
